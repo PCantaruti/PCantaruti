@@ -1,4 +1,7 @@
 ## Hello, Devs!!
+
+<img align="right" width="150px" style="width: 300px" src="oct.png">
+
 ### Eu sou a Pamela 👋
 
 - 💻 Tenho 24 anos, sou estudante de Analise e Desenvolvimento de Sistemas em Curitiba/PR, nerd de carteirinha, adoro estudar coisas novas e contruir novos projetos.
