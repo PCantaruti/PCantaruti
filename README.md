@@ -4,7 +4,7 @@
 
 ### Eu sou a Pamela 👋
 
-- 💻 Tenho 24 anos, sou estudante de Analise e Desenvolvimento de Sistemas em Curitiba/PR, nerd de carteirinha, adoro estudar coisas novas e contruir novos projetos.
+- 💻 Tenho 24 anos, sou estudante de Analise e Desenvolvimento de Sistemas em Curitiba/PR, nerd de carteirinha, adoro estudar coisas novas e construir novos projetos.
 
 - ✨ Buscando me aperfeiçoar em desenvolvimento front-end e transformar ideias em interfaces bonitas e funcionais.
 
