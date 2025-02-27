@@ -1,15 +1,9 @@
-## Hello, Devs!!
+📌 Explorando novas tecnologias e boas práticas para garantir software de qualidade.
 
-<img align="right" width="150px" style="width: 300px" src="oct.png">
+📚 Aprendendo e compartilhando conhecimento sempre que possível.
 
-### Eu sou a Pamela 👋
-
-- 💻 Tenho 25 anos, sou estudante de Analise e Desenvolvimento de Sistemas em Curitiba/PR, nerd de carteirinha, adoro estudar coisas novas e construir novos projetos.
-
-- ✨ Buscando me aperfeiçoar em desenvolvimento front-end e transformar ideias em interfaces bonitas e funcionais.
-
-- 📚 Adoro ler livros e maratonar séries no meu tempo livre.
-
+🔗 Conecte-se comigo e vamos construir algo incrível juntos!
+<br><br>
 ### 🖥️ Ferramentas e Tecnologias:
 <div style="display: inline_block">
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
